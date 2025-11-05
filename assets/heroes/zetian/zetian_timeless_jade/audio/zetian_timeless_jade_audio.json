@@ -1,0 +1,48 @@
+{
+  "hero_selection": {
+    "background": [
+      {
+        "name": "zetian_timeless_jade_hero_select_bg",
+        "subtitle": "Zetian Timeles Jade Hero Select Bg",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_timeless_jade/audio/hero_selection/background/zetian_timeless_jade_hero_select_bg.mp3"
+      }
+    ],
+    "dialog": {
+      "arabic": [],
+      "bahasa_indonesia": [],
+      "chinese": [],
+      "english": [],
+      "espanol": [],
+      "japanese": [],
+      "portuguese": [],
+      "russian": [],
+      "tagalog": [],
+      "turkish": []
+    }
+  },
+  "in_game_dialog": {
+    "arabic": [],
+    "bahasa_indonesia": [],
+    "chinese": [],
+    "english": [],
+    "espanol": [],
+    "japanese": [],
+    "portuguese": [],
+    "russian": [],
+    "tagalog": [],
+    "turkish": []
+  },
+  "main_interface_dialog": {
+    "arabic": [],
+    "bahasa_indonesia": [],
+    "chinese": [],
+    "english": [],
+    "espanol": [],
+    "japanese": [],
+    "portuguese": [],
+    "russian": [],
+    "tagalog": [],
+    "turkish": []
+  }
+}

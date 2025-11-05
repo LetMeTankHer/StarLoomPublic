@@ -1,0 +1,1592 @@
+{
+  "hero_selection": {
+    "background": [
+      {
+        "name": "zetian_celestial_empress_hero_select_bg",
+        "subtitle": "Zetian Celestial Empress Hero Select Bg",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/hero_selection/background/zetian_celestial_empress_hero_select_bg.mp3"
+      }
+    ],
+    "dialog": {
+      "arabic": [],
+      "bahasa_indonesia": [],
+      "chinese": [],
+      "english": [],
+      "espanol": [],
+      "japanese": [],
+      "portuguese": [],
+      "russian": [],
+      "tagalog": [],
+      "turkish": []
+    }
+  },
+  "in_game_dialog": {
+    "arabic": [],
+    "bahasa_indonesia": [],
+    "chinese": [],
+    "english": [],
+    "espanol": [],
+    "japanese": [],
+    "portuguese": [],
+    "russian": [],
+    "tagalog": [],
+    "turkish": []
+  },
+  "main_interface_dialog": {
+    "arabic": [
+      {
+        "name": "zetian_celestial_empress_main_interface_ar_line_01",
+        "subtitle": "Zetian Celestial Empress Main Interface 01",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/arabic/zetian_celestial_empress_main_interface_ar_line_01.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ar_line_02",
+        "subtitle": "Zetian Celestial Empress Main Interface 02",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/arabic/zetian_celestial_empress_main_interface_ar_line_02.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ar_line_03",
+        "subtitle": "Zetian Celestial Empress Main Interface 03",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/arabic/zetian_celestial_empress_main_interface_ar_line_03.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ar_line_04",
+        "subtitle": "Zetian Celestial Empress Main Interface 04",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/arabic/zetian_celestial_empress_main_interface_ar_line_04.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ar_line_05",
+        "subtitle": "Zetian Celestial Empress Main Interface 05",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/arabic/zetian_celestial_empress_main_interface_ar_line_05.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ar_line_06",
+        "subtitle": "Zetian Celestial Empress Main Interface 06",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/arabic/zetian_celestial_empress_main_interface_ar_line_06.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ar_line_07",
+        "subtitle": "Zetian Celestial Empress Main Interface 07",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/arabic/zetian_celestial_empress_main_interface_ar_line_07.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ar_line_08",
+        "subtitle": "Zetian Celestial Empress Main Interface 08",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/arabic/zetian_celestial_empress_main_interface_ar_line_08.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ar_line_09",
+        "subtitle": "Zetian Celestial Empress Main Interface 09",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/arabic/zetian_celestial_empress_main_interface_ar_line_09.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ar_line_10",
+        "subtitle": "Zetian Celestial Empress Main Interface 10",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/arabic/zetian_celestial_empress_main_interface_ar_line_10.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ar_line_11",
+        "subtitle": "Zetian Celestial Empress Main Interface 11",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/arabic/zetian_celestial_empress_main_interface_ar_line_11.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ar_line_12",
+        "subtitle": "Zetian Celestial Empress Main Interface 12",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/arabic/zetian_celestial_empress_main_interface_ar_line_12.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ar_line_13",
+        "subtitle": "Zetian Celestial Empress Main Interface 13",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/arabic/zetian_celestial_empress_main_interface_ar_line_13.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ar_line_14",
+        "subtitle": "Zetian Celestial Empress Main Interface 14",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/arabic/zetian_celestial_empress_main_interface_ar_line_14.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ar_line_15",
+        "subtitle": "Zetian Celestial Empress Main Interface 15",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/arabic/zetian_celestial_empress_main_interface_ar_line_15.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ar_line_16",
+        "subtitle": "Zetian Celestial Empress Main Interface 16",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/arabic/zetian_celestial_empress_main_interface_ar_line_16.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ar_line_17",
+        "subtitle": "Zetian Celestial Empress Main Interface 17",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/arabic/zetian_celestial_empress_main_interface_ar_line_17.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ar_line_18",
+        "subtitle": "Zetian Celestial Empress Main Interface 18",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/arabic/zetian_celestial_empress_main_interface_ar_line_18.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ar_line_19",
+        "subtitle": "Zetian Celestial Empress Main Interface 19",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/arabic/zetian_celestial_empress_main_interface_ar_line_19.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ar_line_20",
+        "subtitle": "Zetian Celestial Empress Main Interface 20",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/arabic/zetian_celestial_empress_main_interface_ar_line_20.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ar_line_21",
+        "subtitle": "Zetian Celestial Empress Main Interface 21",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/arabic/zetian_celestial_empress_main_interface_ar_line_21.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ar_line_22",
+        "subtitle": "Zetian Celestial Empress Main Interface 22",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/arabic/zetian_celestial_empress_main_interface_ar_line_22.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ar_line_23",
+        "subtitle": "Zetian Celestial Empress Main Interface 23",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/arabic/zetian_celestial_empress_main_interface_ar_line_23.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ar_line_24",
+        "subtitle": "Zetian Celestial Empress Main Interface 24",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/arabic/zetian_celestial_empress_main_interface_ar_line_24.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ar_line_25",
+        "subtitle": "Zetian Celestial Empress Main Interface 25",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/arabic/zetian_celestial_empress_main_interface_ar_line_25.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ar_line_26",
+        "subtitle": "Zetian Celestial Empress Main Interface 26",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/arabic/zetian_celestial_empress_main_interface_ar_line_26.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ar_line_27",
+        "subtitle": "Zetian Celestial Empress Main Interface 27",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/arabic/zetian_celestial_empress_main_interface_ar_line_27.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ar_line_28",
+        "subtitle": "Zetian Celestial Empress Main Interface 28",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/arabic/zetian_celestial_empress_main_interface_ar_line_28.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ar_line_29",
+        "subtitle": "Zetian Celestial Empress Main Interface 29",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/arabic/zetian_celestial_empress_main_interface_ar_line_29.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ar_line_30",
+        "subtitle": "Zetian Celestial Empress Main Interface 30",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/arabic/zetian_celestial_empress_main_interface_ar_line_30.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ar_line_31",
+        "subtitle": "Zetian Celestial Empress Main Interface 31",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/arabic/zetian_celestial_empress_main_interface_ar_line_31.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ar_line_32",
+        "subtitle": "Zetian Celestial Empress Main Interface 32",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/arabic/zetian_celestial_empress_main_interface_ar_line_32.mp3"
+      }
+    ],
+    "bahasa_indonesia": [
+      {
+        "name": "zetian_celestial_empress_main_interface_id_line_01",
+        "subtitle": "Zetian Celestial Empress Main Interface Id 01",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/bahasa_indonesia/zetian_celestial_empress_main_interface_id_line_01.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_id_line_02",
+        "subtitle": "Zetian Celestial Empress Main Interface Id 02",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/bahasa_indonesia/zetian_celestial_empress_main_interface_id_line_02.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_id_line_03",
+        "subtitle": "Zetian Celestial Empress Main Interface Id 03",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/bahasa_indonesia/zetian_celestial_empress_main_interface_id_line_03.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_id_line_04",
+        "subtitle": "Zetian Celestial Empress Main Interface Id 04",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/bahasa_indonesia/zetian_celestial_empress_main_interface_id_line_04.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_id_line_05",
+        "subtitle": "Zetian Celestial Empress Main Interface Id 05",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/bahasa_indonesia/zetian_celestial_empress_main_interface_id_line_05.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_id_line_06",
+        "subtitle": "Zetian Celestial Empress Main Interface Id 06",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/bahasa_indonesia/zetian_celestial_empress_main_interface_id_line_06.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_id_line_07",
+        "subtitle": "Zetian Celestial Empress Main Interface Id 07",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/bahasa_indonesia/zetian_celestial_empress_main_interface_id_line_07.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_id_line_08",
+        "subtitle": "Zetian Celestial Empress Main Interface Id 08",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/bahasa_indonesia/zetian_celestial_empress_main_interface_id_line_08.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_id_line_09",
+        "subtitle": "Zetian Celestial Empress Main Interface Id 09",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/bahasa_indonesia/zetian_celestial_empress_main_interface_id_line_09.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_id_line_10",
+        "subtitle": "Zetian Celestial Empress Main Interface Id 10",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/bahasa_indonesia/zetian_celestial_empress_main_interface_id_line_10.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_id_line_11",
+        "subtitle": "Zetian Celestial Empress Main Interface Id 11",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/bahasa_indonesia/zetian_celestial_empress_main_interface_id_line_11.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_id_line_12",
+        "subtitle": "Zetian Celestial Empress Main Interface Id 12",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/bahasa_indonesia/zetian_celestial_empress_main_interface_id_line_12.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_id_line_13",
+        "subtitle": "Zetian Celestial Empress Main Interface Id 13",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/bahasa_indonesia/zetian_celestial_empress_main_interface_id_line_13.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_id_line_14",
+        "subtitle": "Zetian Celestial Empress Main Interface Id 14",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/bahasa_indonesia/zetian_celestial_empress_main_interface_id_line_14.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_id_line_15",
+        "subtitle": "Zetian Celestial Empress Main Interface Id 15",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/bahasa_indonesia/zetian_celestial_empress_main_interface_id_line_15.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_id_line_16",
+        "subtitle": "Zetian Celestial Empress Main Interface Id 16",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/bahasa_indonesia/zetian_celestial_empress_main_interface_id_line_16.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_id_line_17",
+        "subtitle": "Zetian Celestial Empress Main Interface Id 17",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/bahasa_indonesia/zetian_celestial_empress_main_interface_id_line_17.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_id_line_18",
+        "subtitle": "Zetian Celestial Empress Main Interface Id 18",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/bahasa_indonesia/zetian_celestial_empress_main_interface_id_line_18.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_id_line_19",
+        "subtitle": "Zetian Celestial Empress Main Interface Id 19",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/bahasa_indonesia/zetian_celestial_empress_main_interface_id_line_19.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_id_line_20",
+        "subtitle": "Zetian Celestial Empress Main Interface Id 20",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/bahasa_indonesia/zetian_celestial_empress_main_interface_id_line_20.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_id_line_21",
+        "subtitle": "Zetian Celestial Empress Main Interface Id 21",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/bahasa_indonesia/zetian_celestial_empress_main_interface_id_line_21.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_id_line_22",
+        "subtitle": "Zetian Celestial Empress Main Interface Id 22",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/bahasa_indonesia/zetian_celestial_empress_main_interface_id_line_22.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_id_line_23",
+        "subtitle": "Zetian Celestial Empress Main Interface Id 23",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/bahasa_indonesia/zetian_celestial_empress_main_interface_id_line_23.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_id_line_24",
+        "subtitle": "Zetian Celestial Empress Main Interface Id 24",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/bahasa_indonesia/zetian_celestial_empress_main_interface_id_line_24.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_id_line_25",
+        "subtitle": "Zetian Celestial Empress Main Interface Id 25",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/bahasa_indonesia/zetian_celestial_empress_main_interface_id_line_25.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_id_line_26",
+        "subtitle": "Zetian Celestial Empress Main Interface Id 26",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/bahasa_indonesia/zetian_celestial_empress_main_interface_id_line_26.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_id_line_27",
+        "subtitle": "Zetian Celestial Empress Main Interface Id 27",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/bahasa_indonesia/zetian_celestial_empress_main_interface_id_line_27.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_id_line_28",
+        "subtitle": "Zetian Celestial Empress Main Interface Id 28",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/bahasa_indonesia/zetian_celestial_empress_main_interface_id_line_28.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_id_line_29",
+        "subtitle": "Zetian Celestial Empress Main Interface Id 29",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/bahasa_indonesia/zetian_celestial_empress_main_interface_id_line_29.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_id_line_30",
+        "subtitle": "Zetian Celestial Empress Main Interface Id 30",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/bahasa_indonesia/zetian_celestial_empress_main_interface_id_line_30.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_id_line_31",
+        "subtitle": "Zetian Celestial Empress Main Interface Id 31",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/bahasa_indonesia/zetian_celestial_empress_main_interface_id_line_31.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_id_line_32",
+        "subtitle": "Zetian Celestial Empress Main Interface Id 32",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/bahasa_indonesia/zetian_celestial_empress_main_interface_id_line_32.mp3"
+      }
+    ],
+    "chinese": [],
+    "english": [
+      {
+        "name": "zetian_celestial_empress_main_interface_en_line_01",
+        "subtitle": "Zetian Celestial Empress Main Interface En 01",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/english/zetian_celestial_empress_main_interface_en_line_01.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_en_line_02",
+        "subtitle": "Zetian Celestial Empress Main Interface En 02",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/english/zetian_celestial_empress_main_interface_en_line_02.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_en_line_03",
+        "subtitle": "Zetian Celestial Empress Main Interface En 03",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/english/zetian_celestial_empress_main_interface_en_line_03.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_en_line_04",
+        "subtitle": "Zetian Celestial Empress Main Interface En 04",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/english/zetian_celestial_empress_main_interface_en_line_04.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_en_line_05",
+        "subtitle": "Zetian Celestial Empress Main Interface En 05",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/english/zetian_celestial_empress_main_interface_en_line_05.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_en_line_06",
+        "subtitle": "Zetian Celestial Empress Main Interface En 06",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/english/zetian_celestial_empress_main_interface_en_line_06.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_en_line_07",
+        "subtitle": "Zetian Celestial Empress Main Interface En 07",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/english/zetian_celestial_empress_main_interface_en_line_07.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_en_line_08",
+        "subtitle": "Zetian Celestial Empress Main Interface En 08",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/english/zetian_celestial_empress_main_interface_en_line_08.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_en_line_09",
+        "subtitle": "Zetian Celestial Empress Main Interface En 09",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/english/zetian_celestial_empress_main_interface_en_line_09.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_en_line_10",
+        "subtitle": "Zetian Celestial Empress Main Interface En 10",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/english/zetian_celestial_empress_main_interface_en_line_10.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_en_line_11",
+        "subtitle": "Zetian Celestial Empress Main Interface En 11",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/english/zetian_celestial_empress_main_interface_en_line_11.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_en_line_12",
+        "subtitle": "Zetian Celestial Empress Main Interface En 12",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/english/zetian_celestial_empress_main_interface_en_line_12.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_en_line_13",
+        "subtitle": "Zetian Celestial Empress Main Interface En 13",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/english/zetian_celestial_empress_main_interface_en_line_13.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_en_line_14",
+        "subtitle": "Zetian Celestial Empress Main Interface En 14",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/english/zetian_celestial_empress_main_interface_en_line_14.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_en_line_15",
+        "subtitle": "Zetian Celestial Empress Main Interface En 15",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/english/zetian_celestial_empress_main_interface_en_line_15.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_en_line_16",
+        "subtitle": "Zetian Celestial Empress Main Interface En 16",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/english/zetian_celestial_empress_main_interface_en_line_16.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_en_line_17",
+        "subtitle": "Zetian Celestial Empress Main Interface En 17",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/english/zetian_celestial_empress_main_interface_en_line_17.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_en_line_18",
+        "subtitle": "Zetian Celestial Empress Main Interface En 18",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/english/zetian_celestial_empress_main_interface_en_line_18.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_en_line_19",
+        "subtitle": "Zetian Celestial Empress Main Interface En 19",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/english/zetian_celestial_empress_main_interface_en_line_19.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_en_line_20",
+        "subtitle": "Zetian Celestial Empress Main Interface En 20",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/english/zetian_celestial_empress_main_interface_en_line_20.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_en_line_21",
+        "subtitle": "Zetian Celestial Empress Main Interface En 21",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/english/zetian_celestial_empress_main_interface_en_line_21.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_en_line_22",
+        "subtitle": "Zetian Celestial Empress Main Interface En 22",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/english/zetian_celestial_empress_main_interface_en_line_22.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_en_line_23",
+        "subtitle": "Zetian Celestial Empress Main Interface En 23",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/english/zetian_celestial_empress_main_interface_en_line_23.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_en_line_24",
+        "subtitle": "Zetian Celestial Empress Main Interface En 24",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/english/zetian_celestial_empress_main_interface_en_line_24.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_en_line_25",
+        "subtitle": "Zetian Celestial Empress Main Interface En 25",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/english/zetian_celestial_empress_main_interface_en_line_25.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_en_line_26",
+        "subtitle": "Zetian Celestial Empress Main Interface En 26",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/english/zetian_celestial_empress_main_interface_en_line_26.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_en_line_27",
+        "subtitle": "Zetian Celestial Empress Main Interface En 27",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/english/zetian_celestial_empress_main_interface_en_line_27.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_en_line_28",
+        "subtitle": "Zetian Celestial Empress Main Interface En 28",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/english/zetian_celestial_empress_main_interface_en_line_28.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_en_line_29",
+        "subtitle": "Zetian Celestial Empress Main Interface En 29",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/english/zetian_celestial_empress_main_interface_en_line_29.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_en_line_30",
+        "subtitle": "Zetian Celestial Empress Main Interface En 30",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/english/zetian_celestial_empress_main_interface_en_line_30.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_en_line_31",
+        "subtitle": "Zetian Celestial Empress Main Interface En 31",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/english/zetian_celestial_empress_main_interface_en_line_31.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_en_line_32",
+        "subtitle": "Zetian Celestial Empress Main Interface En 32",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/english/zetian_celestial_empress_main_interface_en_line_32.mp3"
+      }
+    ],
+    "espanol": [
+      {
+        "name": "zetian_celestial_empress_main_interface_es_line_01",
+        "subtitle": "Zetian Celestial Empress Main Interface Es 01",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/espanol/zetian_celestial_empress_main_interface_es_line_01.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_es_line_02",
+        "subtitle": "Zetian Celestial Empress Main Interface Es 02",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/espanol/zetian_celestial_empress_main_interface_es_line_02.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_es_line_03",
+        "subtitle": "Zetian Celestial Empress Main Interface Es 03",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/espanol/zetian_celestial_empress_main_interface_es_line_03.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_es_line_04",
+        "subtitle": "Zetian Celestial Empress Main Interface Es 04",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/espanol/zetian_celestial_empress_main_interface_es_line_04.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_es_line_05",
+        "subtitle": "Zetian Celestial Empress Main Interface Es 05",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/espanol/zetian_celestial_empress_main_interface_es_line_05.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_es_line_06",
+        "subtitle": "Zetian Celestial Empress Main Interface Es 06",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/espanol/zetian_celestial_empress_main_interface_es_line_06.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_es_line_07",
+        "subtitle": "Zetian Celestial Empress Main Interface Es 07",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/espanol/zetian_celestial_empress_main_interface_es_line_07.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_es_line_08",
+        "subtitle": "Zetian Celestial Empress Main Interface Es 08",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/espanol/zetian_celestial_empress_main_interface_es_line_08.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_es_line_09",
+        "subtitle": "Zetian Celestial Empress Main Interface Es 09",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/espanol/zetian_celestial_empress_main_interface_es_line_09.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_es_line_10",
+        "subtitle": "Zetian Celestial Empress Main Interface Es 10",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/espanol/zetian_celestial_empress_main_interface_es_line_10.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_es_line_11",
+        "subtitle": "Zetian Celestial Empress Main Interface Es 11",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/espanol/zetian_celestial_empress_main_interface_es_line_11.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_es_line_12",
+        "subtitle": "Zetian Celestial Empress Main Interface Es 12",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/espanol/zetian_celestial_empress_main_interface_es_line_12.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_es_line_13",
+        "subtitle": "Zetian Celestial Empress Main Interface Es 13",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/espanol/zetian_celestial_empress_main_interface_es_line_13.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_es_line_14",
+        "subtitle": "Zetian Celestial Empress Main Interface Es 14",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/espanol/zetian_celestial_empress_main_interface_es_line_14.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_es_line_15",
+        "subtitle": "Zetian Celestial Empress Main Interface Es 15",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/espanol/zetian_celestial_empress_main_interface_es_line_15.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_es_line_16",
+        "subtitle": "Zetian Celestial Empress Main Interface Es 16",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/espanol/zetian_celestial_empress_main_interface_es_line_16.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_es_line_17",
+        "subtitle": "Zetian Celestial Empress Main Interface Es 17",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/espanol/zetian_celestial_empress_main_interface_es_line_17.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_es_line_18",
+        "subtitle": "Zetian Celestial Empress Main Interface Es 18",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/espanol/zetian_celestial_empress_main_interface_es_line_18.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_es_line_19",
+        "subtitle": "Zetian Celestial Empress Main Interface Es 19",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/espanol/zetian_celestial_empress_main_interface_es_line_19.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_es_line_20",
+        "subtitle": "Zetian Celestial Empress Main Interface Es 20",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/espanol/zetian_celestial_empress_main_interface_es_line_20.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_es_line_21",
+        "subtitle": "Zetian Celestial Empress Main Interface Es 21",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/espanol/zetian_celestial_empress_main_interface_es_line_21.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_es_line_22",
+        "subtitle": "Zetian Celestial Empress Main Interface Es 22",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/espanol/zetian_celestial_empress_main_interface_es_line_22.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_es_line_23",
+        "subtitle": "Zetian Celestial Empress Main Interface Es 23",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/espanol/zetian_celestial_empress_main_interface_es_line_23.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_es_line_24",
+        "subtitle": "Zetian Celestial Empress Main Interface Es 24",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/espanol/zetian_celestial_empress_main_interface_es_line_24.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_es_line_25",
+        "subtitle": "Zetian Celestial Empress Main Interface Es 25",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/espanol/zetian_celestial_empress_main_interface_es_line_25.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_es_line_26",
+        "subtitle": "Zetian Celestial Empress Main Interface Es 26",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/espanol/zetian_celestial_empress_main_interface_es_line_26.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_es_line_27",
+        "subtitle": "Zetian Celestial Empress Main Interface Es 27",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/espanol/zetian_celestial_empress_main_interface_es_line_27.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_es_line_28",
+        "subtitle": "Zetian Celestial Empress Main Interface Es 28",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/espanol/zetian_celestial_empress_main_interface_es_line_28.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_es_line_29",
+        "subtitle": "Zetian Celestial Empress Main Interface Es 29",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/espanol/zetian_celestial_empress_main_interface_es_line_29.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_es_line_30",
+        "subtitle": "Zetian Celestial Empress Main Interface Es 30",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/espanol/zetian_celestial_empress_main_interface_es_line_30.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_es_line_31",
+        "subtitle": "Zetian Celestial Empress Main Interface Es 31",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/espanol/zetian_celestial_empress_main_interface_es_line_31.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_es_line_32",
+        "subtitle": "Zetian Celestial Empress Main Interface Es 32",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/espanol/zetian_celestial_empress_main_interface_es_line_32.mp3"
+      }
+    ],
+    "japanese": [
+      {
+        "name": "zetian_celestial_empress_main_interface_ja_line_01",
+        "subtitle": "Zetian Celestial Empress Main Interface Ja 01",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/japanese/zetian_celestial_empress_main_interface_ja_line_01.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ja_line_02",
+        "subtitle": "Zetian Celestial Empress Main Interface Ja 02",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/japanese/zetian_celestial_empress_main_interface_ja_line_02.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ja_line_03",
+        "subtitle": "Zetian Celestial Empress Main Interface Ja 03",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/japanese/zetian_celestial_empress_main_interface_ja_line_03.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ja_line_04",
+        "subtitle": "Zetian Celestial Empress Main Interface Ja 04",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/japanese/zetian_celestial_empress_main_interface_ja_line_04.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ja_line_05",
+        "subtitle": "Zetian Celestial Empress Main Interface Ja 05",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/japanese/zetian_celestial_empress_main_interface_ja_line_05.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ja_line_06",
+        "subtitle": "Zetian Celestial Empress Main Interface Ja 06",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/japanese/zetian_celestial_empress_main_interface_ja_line_06.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ja_line_07",
+        "subtitle": "Zetian Celestial Empress Main Interface Ja 07",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/japanese/zetian_celestial_empress_main_interface_ja_line_07.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ja_line_08",
+        "subtitle": "Zetian Celestial Empress Main Interface Ja 08",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/japanese/zetian_celestial_empress_main_interface_ja_line_08.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ja_line_09",
+        "subtitle": "Zetian Celestial Empress Main Interface Ja 09",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/japanese/zetian_celestial_empress_main_interface_ja_line_09.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ja_line_10",
+        "subtitle": "Zetian Celestial Empress Main Interface Ja 10",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/japanese/zetian_celestial_empress_main_interface_ja_line_10.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ja_line_11",
+        "subtitle": "Zetian Celestial Empress Main Interface Ja 11",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/japanese/zetian_celestial_empress_main_interface_ja_line_11.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ja_line_12",
+        "subtitle": "Zetian Celestial Empress Main Interface Ja 12",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/japanese/zetian_celestial_empress_main_interface_ja_line_12.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ja_line_13",
+        "subtitle": "Zetian Celestial Empress Main Interface Ja 13",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/japanese/zetian_celestial_empress_main_interface_ja_line_13.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ja_line_14",
+        "subtitle": "Zetian Celestial Empress Main Interface Ja 14",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/japanese/zetian_celestial_empress_main_interface_ja_line_14.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ja_line_15",
+        "subtitle": "Zetian Celestial Empress Main Interface Ja 15",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/japanese/zetian_celestial_empress_main_interface_ja_line_15.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ja_line_16",
+        "subtitle": "Zetian Celestial Empress Main Interface Ja 16",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/japanese/zetian_celestial_empress_main_interface_ja_line_16.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ja_line_17",
+        "subtitle": "Zetian Celestial Empress Main Interface Ja 17",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/japanese/zetian_celestial_empress_main_interface_ja_line_17.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ja_line_18",
+        "subtitle": "Zetian Celestial Empress Main Interface Ja 18",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/japanese/zetian_celestial_empress_main_interface_ja_line_18.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ja_line_19",
+        "subtitle": "Zetian Celestial Empress Main Interface Ja 19",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/japanese/zetian_celestial_empress_main_interface_ja_line_19.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ja_line_20",
+        "subtitle": "Zetian Celestial Empress Main Interface Ja 20",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/japanese/zetian_celestial_empress_main_interface_ja_line_20.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ja_line_21",
+        "subtitle": "Zetian Celestial Empress Main Interface Ja 21",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/japanese/zetian_celestial_empress_main_interface_ja_line_21.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ja_line_22",
+        "subtitle": "Zetian Celestial Empress Main Interface Ja 22",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/japanese/zetian_celestial_empress_main_interface_ja_line_22.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ja_line_23",
+        "subtitle": "Zetian Celestial Empress Main Interface Ja 23",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/japanese/zetian_celestial_empress_main_interface_ja_line_23.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ja_line_24",
+        "subtitle": "Zetian Celestial Empress Main Interface Ja 24",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/japanese/zetian_celestial_empress_main_interface_ja_line_24.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ja_line_25",
+        "subtitle": "Zetian Celestial Empress Main Interface Ja 25",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/japanese/zetian_celestial_empress_main_interface_ja_line_25.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ja_line_26",
+        "subtitle": "Zetian Celestial Empress Main Interface Ja 26",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/japanese/zetian_celestial_empress_main_interface_ja_line_26.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ja_line_27",
+        "subtitle": "Zetian Celestial Empress Main Interface Ja 27",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/japanese/zetian_celestial_empress_main_interface_ja_line_27.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ja_line_28",
+        "subtitle": "Zetian Celestial Empress Main Interface Ja 28",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/japanese/zetian_celestial_empress_main_interface_ja_line_28.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ja_line_29",
+        "subtitle": "Zetian Celestial Empress Main Interface Ja 29",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/japanese/zetian_celestial_empress_main_interface_ja_line_29.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ja_line_30",
+        "subtitle": "Zetian Celestial Empress Main Interface Ja 30",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/japanese/zetian_celestial_empress_main_interface_ja_line_30.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ja_line_31",
+        "subtitle": "Zetian Celestial Empress Main Interface Ja 31",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/japanese/zetian_celestial_empress_main_interface_ja_line_31.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ja_line_32",
+        "subtitle": "Zetian Celestial Empress Main Interface Ja 32",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/japanese/zetian_celestial_empress_main_interface_ja_line_32.mp3"
+      }
+    ],
+    "portuguese": [
+      {
+        "name": "zetian_celestial_empress_main_interface_pt_line_01",
+        "subtitle": "Zetian Celestial Empress Main Interface Pt 01",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/portuguese/zetian_celestial_empress_main_interface_pt_line_01.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_pt_line_02",
+        "subtitle": "Zetian Celestial Empress Main Interface Pt 02",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/portuguese/zetian_celestial_empress_main_interface_pt_line_02.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_pt_line_03",
+        "subtitle": "Zetian Celestial Empress Main Interface Pt 03",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/portuguese/zetian_celestial_empress_main_interface_pt_line_03.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_pt_line_04",
+        "subtitle": "Zetian Celestial Empress Main Interface Pt 04",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/portuguese/zetian_celestial_empress_main_interface_pt_line_04.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_pt_line_05",
+        "subtitle": "Zetian Celestial Empress Main Interface Pt 05",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/portuguese/zetian_celestial_empress_main_interface_pt_line_05.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_pt_line_06",
+        "subtitle": "Zetian Celestial Empress Main Interface Pt 06",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/portuguese/zetian_celestial_empress_main_interface_pt_line_06.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_pt_line_07",
+        "subtitle": "Zetian Celestial Empress Main Interface Pt 07",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/portuguese/zetian_celestial_empress_main_interface_pt_line_07.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_pt_line_08",
+        "subtitle": "Zetian Celestial Empress Main Interface Pt 08",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/portuguese/zetian_celestial_empress_main_interface_pt_line_08.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_pt_line_09",
+        "subtitle": "Zetian Celestial Empress Main Interface Pt 09",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/portuguese/zetian_celestial_empress_main_interface_pt_line_09.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_pt_line_10",
+        "subtitle": "Zetian Celestial Empress Main Interface Pt 10",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/portuguese/zetian_celestial_empress_main_interface_pt_line_10.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_pt_line_11",
+        "subtitle": "Zetian Celestial Empress Main Interface Pt 11",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/portuguese/zetian_celestial_empress_main_interface_pt_line_11.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_pt_line_12",
+        "subtitle": "Zetian Celestial Empress Main Interface Pt 12",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/portuguese/zetian_celestial_empress_main_interface_pt_line_12.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_pt_line_13",
+        "subtitle": "Zetian Celestial Empress Main Interface Pt 13",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/portuguese/zetian_celestial_empress_main_interface_pt_line_13.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_pt_line_14",
+        "subtitle": "Zetian Celestial Empress Main Interface Pt 14",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/portuguese/zetian_celestial_empress_main_interface_pt_line_14.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_pt_line_15",
+        "subtitle": "Zetian Celestial Empress Main Interface Pt 15",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/portuguese/zetian_celestial_empress_main_interface_pt_line_15.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_pt_line_16",
+        "subtitle": "Zetian Celestial Empress Main Interface Pt 16",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/portuguese/zetian_celestial_empress_main_interface_pt_line_16.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_pt_line_17",
+        "subtitle": "Zetian Celestial Empress Main Interface Pt 17",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/portuguese/zetian_celestial_empress_main_interface_pt_line_17.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_pt_line_18",
+        "subtitle": "Zetian Celestial Empress Main Interface Pt 18",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/portuguese/zetian_celestial_empress_main_interface_pt_line_18.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_pt_line_19",
+        "subtitle": "Zetian Celestial Empress Main Interface Pt 19",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/portuguese/zetian_celestial_empress_main_interface_pt_line_19.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_pt_line_20",
+        "subtitle": "Zetian Celestial Empress Main Interface Pt 20",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/portuguese/zetian_celestial_empress_main_interface_pt_line_20.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_pt_line_21",
+        "subtitle": "Zetian Celestial Empress Main Interface Pt 21",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/portuguese/zetian_celestial_empress_main_interface_pt_line_21.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_pt_line_22",
+        "subtitle": "Zetian Celestial Empress Main Interface Pt 22",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/portuguese/zetian_celestial_empress_main_interface_pt_line_22.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_pt_line_23",
+        "subtitle": "Zetian Celestial Empress Main Interface Pt 23",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/portuguese/zetian_celestial_empress_main_interface_pt_line_23.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_pt_line_24",
+        "subtitle": "Zetian Celestial Empress Main Interface Pt 24",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/portuguese/zetian_celestial_empress_main_interface_pt_line_24.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_pt_line_25",
+        "subtitle": "Zetian Celestial Empress Main Interface Pt 25",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/portuguese/zetian_celestial_empress_main_interface_pt_line_25.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_pt_line_26",
+        "subtitle": "Zetian Celestial Empress Main Interface Pt 26",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/portuguese/zetian_celestial_empress_main_interface_pt_line_26.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_pt_line_27",
+        "subtitle": "Zetian Celestial Empress Main Interface Pt 27",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/portuguese/zetian_celestial_empress_main_interface_pt_line_27.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_pt_line_28",
+        "subtitle": "Zetian Celestial Empress Main Interface Pt 28",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/portuguese/zetian_celestial_empress_main_interface_pt_line_28.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_pt_line_29",
+        "subtitle": "Zetian Celestial Empress Main Interface Pt 29",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/portuguese/zetian_celestial_empress_main_interface_pt_line_29.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_pt_line_30",
+        "subtitle": "Zetian Celestial Empress Main Interface Pt 30",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/portuguese/zetian_celestial_empress_main_interface_pt_line_30.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_pt_line_31",
+        "subtitle": "Zetian Celestial Empress Main Interface Pt 31",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/portuguese/zetian_celestial_empress_main_interface_pt_line_31.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_pt_line_32",
+        "subtitle": "Zetian Celestial Empress Main Interface Pt 32",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/portuguese/zetian_celestial_empress_main_interface_pt_line_32.mp3"
+      }
+    ],
+    "russian": [
+      {
+        "name": "zetian_celestial_empress_main_interface_ru_line_01",
+        "subtitle": "Zetian Celestial Empress Main Interface Ru 01",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/russian/zetian_celestial_empress_main_interface_ru_line_01.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ru_line_02",
+        "subtitle": "Zetian Celestial Empress Main Interface Ru 02",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/russian/zetian_celestial_empress_main_interface_ru_line_02.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ru_line_03",
+        "subtitle": "Zetian Celestial Empress Main Interface Ru 03",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/russian/zetian_celestial_empress_main_interface_ru_line_03.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ru_line_04",
+        "subtitle": "Zetian Celestial Empress Main Interface Ru 04",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/russian/zetian_celestial_empress_main_interface_ru_line_04.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ru_line_05",
+        "subtitle": "Zetian Celestial Empress Main Interface Ru 05",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/russian/zetian_celestial_empress_main_interface_ru_line_05.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ru_line_06",
+        "subtitle": "Zetian Celestial Empress Main Interface Ru 06",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/russian/zetian_celestial_empress_main_interface_ru_line_06.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ru_line_07",
+        "subtitle": "Zetian Celestial Empress Main Interface Ru 07",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/russian/zetian_celestial_empress_main_interface_ru_line_07.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ru_line_08",
+        "subtitle": "Zetian Celestial Empress Main Interface Ru 08",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/russian/zetian_celestial_empress_main_interface_ru_line_08.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ru_line_09",
+        "subtitle": "Zetian Celestial Empress Main Interface Ru 09",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/russian/zetian_celestial_empress_main_interface_ru_line_09.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ru_line_10",
+        "subtitle": "Zetian Celestial Empress Main Interface Ru 10",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/russian/zetian_celestial_empress_main_interface_ru_line_10.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ru_line_11",
+        "subtitle": "Zetian Celestial Empress Main Interface Ru 11",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/russian/zetian_celestial_empress_main_interface_ru_line_11.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ru_line_12",
+        "subtitle": "Zetian Celestial Empress Main Interface Ru 12",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/russian/zetian_celestial_empress_main_interface_ru_line_12.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ru_line_13",
+        "subtitle": "Zetian Celestial Empress Main Interface Ru 13",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/russian/zetian_celestial_empress_main_interface_ru_line_13.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ru_line_14",
+        "subtitle": "Zetian Celestial Empress Main Interface Ru 14",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/russian/zetian_celestial_empress_main_interface_ru_line_14.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ru_line_15",
+        "subtitle": "Zetian Celestial Empress Main Interface Ru 15",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/russian/zetian_celestial_empress_main_interface_ru_line_15.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ru_line_16",
+        "subtitle": "Zetian Celestial Empress Main Interface Ru 16",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/russian/zetian_celestial_empress_main_interface_ru_line_16.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ru_line_17",
+        "subtitle": "Zetian Celestial Empress Main Interface Ru 17",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/russian/zetian_celestial_empress_main_interface_ru_line_17.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ru_line_18",
+        "subtitle": "Zetian Celestial Empress Main Interface Ru 18",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/russian/zetian_celestial_empress_main_interface_ru_line_18.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ru_line_19",
+        "subtitle": "Zetian Celestial Empress Main Interface Ru 19",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/russian/zetian_celestial_empress_main_interface_ru_line_19.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ru_line_20",
+        "subtitle": "Zetian Celestial Empress Main Interface Ru 20",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/russian/zetian_celestial_empress_main_interface_ru_line_20.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ru_line_21",
+        "subtitle": "Zetian Celestial Empress Main Interface Ru 21",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/russian/zetian_celestial_empress_main_interface_ru_line_21.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ru_line_22",
+        "subtitle": "Zetian Celestial Empress Main Interface Ru 22",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/russian/zetian_celestial_empress_main_interface_ru_line_22.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ru_line_23",
+        "subtitle": "Zetian Celestial Empress Main Interface Ru 23",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/russian/zetian_celestial_empress_main_interface_ru_line_23.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ru_line_24",
+        "subtitle": "Zetian Celestial Empress Main Interface Ru 24",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/russian/zetian_celestial_empress_main_interface_ru_line_24.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ru_line_25",
+        "subtitle": "Zetian Celestial Empress Main Interface Ru 25",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/russian/zetian_celestial_empress_main_interface_ru_line_25.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ru_line_26",
+        "subtitle": "Zetian Celestial Empress Main Interface Ru 26",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/russian/zetian_celestial_empress_main_interface_ru_line_26.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ru_line_27",
+        "subtitle": "Zetian Celestial Empress Main Interface Ru 27",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/russian/zetian_celestial_empress_main_interface_ru_line_27.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ru_line_28",
+        "subtitle": "Zetian Celestial Empress Main Interface Ru 28",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/russian/zetian_celestial_empress_main_interface_ru_line_28.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ru_line_29",
+        "subtitle": "Zetian Celestial Empress Main Interface Ru 29",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/russian/zetian_celestial_empress_main_interface_ru_line_29.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ru_line_30",
+        "subtitle": "Zetian Celestial Empress Main Interface Ru 30",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/russian/zetian_celestial_empress_main_interface_ru_line_30.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ru_line_31",
+        "subtitle": "Zetian Celestial Empress Main Interface Ru 31",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/russian/zetian_celestial_empress_main_interface_ru_line_31.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_ru_line_32",
+        "subtitle": "Zetian Celestial Empress Main Interface Ru 32",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/russian/zetian_celestial_empress_main_interface_ru_line_32.mp3"
+      }
+    ],
+    "tagalog": [],
+    "turkish": [
+      {
+        "name": "zetian_celestial_empress_main_interface_tr_line_01",
+        "subtitle": "Zetian Celestial Empress Main Interface Tr 01",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/turkish/zetian_celestial_empress_main_interface_tr_line_01.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_tr_line_02",
+        "subtitle": "Zetian Celestial Empress Main Interface Tr 02",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/turkish/zetian_celestial_empress_main_interface_tr_line_02.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_tr_line_03",
+        "subtitle": "Zetian Celestial Empress Main Interface Tr 03",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/turkish/zetian_celestial_empress_main_interface_tr_line_03.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_tr_line_04",
+        "subtitle": "Zetian Celestial Empress Main Interface Tr 04",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/turkish/zetian_celestial_empress_main_interface_tr_line_04.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_tr_line_05",
+        "subtitle": "Zetian Celestial Empress Main Interface Tr 05",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/turkish/zetian_celestial_empress_main_interface_tr_line_05.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_tr_line_06",
+        "subtitle": "Zetian Celestial Empress Main Interface Tr 06",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/turkish/zetian_celestial_empress_main_interface_tr_line_06.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_tr_line_07",
+        "subtitle": "Zetian Celestial Empress Main Interface Tr 07",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/turkish/zetian_celestial_empress_main_interface_tr_line_07.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_tr_line_08",
+        "subtitle": "Zetian Celestial Empress Main Interface Tr 08",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/turkish/zetian_celestial_empress_main_interface_tr_line_08.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_tr_line_09",
+        "subtitle": "Zetian Celestial Empress Main Interface Tr 09",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/turkish/zetian_celestial_empress_main_interface_tr_line_09.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_tr_line_10",
+        "subtitle": "Zetian Celestial Empress Main Interface Tr 10",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/turkish/zetian_celestial_empress_main_interface_tr_line_10.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_tr_line_11",
+        "subtitle": "Zetian Celestial Empress Main Interface Tr 11",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/turkish/zetian_celestial_empress_main_interface_tr_line_11.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_tr_line_12",
+        "subtitle": "Zetian Celestial Empress Main Interface Tr 12",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/turkish/zetian_celestial_empress_main_interface_tr_line_12.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_tr_line_13",
+        "subtitle": "Zetian Celestial Empress Main Interface Tr 13",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/turkish/zetian_celestial_empress_main_interface_tr_line_13.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_tr_line_14",
+        "subtitle": "Zetian Celestial Empress Main Interface Tr 14",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/turkish/zetian_celestial_empress_main_interface_tr_line_14.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_tr_line_15",
+        "subtitle": "Zetian Celestial Empress Main Interface Tr 15",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/turkish/zetian_celestial_empress_main_interface_tr_line_15.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_tr_line_16",
+        "subtitle": "Zetian Celestial Empress Main Interface Tr 16",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/turkish/zetian_celestial_empress_main_interface_tr_line_16.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_tr_line_17",
+        "subtitle": "Zetian Celestial Empress Main Interface Tr 17",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/turkish/zetian_celestial_empress_main_interface_tr_line_17.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_tr_line_18",
+        "subtitle": "Zetian Celestial Empress Main Interface Tr 18",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/turkish/zetian_celestial_empress_main_interface_tr_line_18.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_tr_line_19",
+        "subtitle": "Zetian Celestial Empress Main Interface Tr 19",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/turkish/zetian_celestial_empress_main_interface_tr_line_19.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_tr_line_20",
+        "subtitle": "Zetian Celestial Empress Main Interface Tr 20",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/turkish/zetian_celestial_empress_main_interface_tr_line_20.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_tr_line_21",
+        "subtitle": "Zetian Celestial Empress Main Interface Tr 21",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/turkish/zetian_celestial_empress_main_interface_tr_line_21.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_tr_line_22",
+        "subtitle": "Zetian Celestial Empress Main Interface Tr 22",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/turkish/zetian_celestial_empress_main_interface_tr_line_22.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_tr_line_23",
+        "subtitle": "Zetian Celestial Empress Main Interface Tr 23",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/turkish/zetian_celestial_empress_main_interface_tr_line_23.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_tr_line_24",
+        "subtitle": "Zetian Celestial Empress Main Interface Tr 24",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/turkish/zetian_celestial_empress_main_interface_tr_line_24.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_tr_line_25",
+        "subtitle": "Zetian Celestial Empress Main Interface Tr 25",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/turkish/zetian_celestial_empress_main_interface_tr_line_25.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_tr_line_26",
+        "subtitle": "Zetian Celestial Empress Main Interface Tr 26",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/turkish/zetian_celestial_empress_main_interface_tr_line_26.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_tr_line_27",
+        "subtitle": "Zetian Celestial Empress Main Interface Tr 27",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/turkish/zetian_celestial_empress_main_interface_tr_line_27.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_tr_line_28",
+        "subtitle": "Zetian Celestial Empress Main Interface Tr 28",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/turkish/zetian_celestial_empress_main_interface_tr_line_28.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_tr_line_29",
+        "subtitle": "Zetian Celestial Empress Main Interface Tr 29",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/turkish/zetian_celestial_empress_main_interface_tr_line_29.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_tr_line_30",
+        "subtitle": "Zetian Celestial Empress Main Interface Tr 30",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/turkish/zetian_celestial_empress_main_interface_tr_line_30.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_tr_line_31",
+        "subtitle": "Zetian Celestial Empress Main Interface Tr 31",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/turkish/zetian_celestial_empress_main_interface_tr_line_31.mp3"
+      },
+      {
+        "name": "zetian_celestial_empress_main_interface_tr_line_32",
+        "subtitle": "Zetian Celestial Empress Main Interface Tr 32",
+        "translation": "",
+        "file": "assets/heroes/zetian/zetian_celestial_empress/audio/main_interface_dialog/turkish/zetian_celestial_empress_main_interface_tr_line_32.mp3"
+      }
+    ]
+  }
+}
