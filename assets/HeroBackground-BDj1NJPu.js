@@ -1,0 +1,1 @@
+import{j as l}from"./index-BH3WP3JE.js";const r=({splashArt:s,base:a})=>s?l.jsxs("div",{className:"absolute inset-0 z-0",children:[l.jsx("img",{src:`${a}${s}`,alt:"Hero Background",className:"w-full h-full object-cover",loading:"lazy"}),l.jsx("div",{className:"absolute inset-0 bg-black/40 backdrop-blur-xl"})]}):null;export{r as default};
