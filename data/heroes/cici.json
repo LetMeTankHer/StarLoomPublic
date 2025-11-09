@@ -21,9 +21,9 @@
         "default": "assets/heroes/cici/cici_buoyant_performer/avatars/cici_buoyant_performer_avatar_default.png"
       },
       "models": {
-        "entrance": "",
-        "in_game": "",
-        "raw": ""
+        "entrance": "assets/heroes/cici/cici_buoyant_performer/models/cici_buoyant_performer_entrance.glb",
+        "in_game": "assets/heroes/cici/cici_buoyant_performer/models/cici_buoyant_performer_in_game.glb",
+        "raw": "assets/heroes/cici/cici_buoyant_performer/models/cici_buoyant_performer_raw.glb"
       },
       "portraits": {
         "default": "assets/heroes/cici/cici_buoyant_performer/portraits/cici_buoyant_performer_portrait_default.png"
@@ -53,9 +53,9 @@
         "default": "assets/heroes/cici/cici_whimsical_carnival/avatars/cici_whimsical_carnival_avatar_default.png"
       },
       "models": {
-        "entrance": "",
-        "in_game": "",
-        "raw": ""
+        "entrance": "assets/heroes/cici/cici_whimsical_carnival/models/cici_whimsical_carnival_entrance.glb",
+        "in_game": "assets/heroes/cici/cici_whimsical_carnival/models/cici_whimsical_carnival_in_game.glb",
+        "raw": "assets/heroes/cici/cici_whimsical_carnival/models/cici_whimsical_carnival_raw.glb"
       },
       "portraits": {
         "default": "assets/heroes/cici/cici_whimsical_carnival/portraits/cici_whimsical_carnival_portrait_default.png"
@@ -85,9 +85,9 @@
         "default": "assets/heroes/cici/cici_circus_reverie/avatars/cici_circus_reverie_avatar_default.png"
       },
       "models": {
-        "entrance": "",
-        "in_game": "",
-        "raw": ""
+        "entrance": "assets/heroes/cici/cici_circus_reverie/models/cici_circus_reverie_entrance.glb",
+        "in_game": "assets/heroes/cici/cici_circus_reverie/models/cici_circus_reverie_in_game.glb",
+        "raw": "assets/heroes/cici/cici_circus_reverie/models/cici_circus_reverie_raw.glb"
       },
       "portraits": {
         "default": "assets/heroes/cici/cici_circus_reverie/portraits/cici_circus_reverie_portrait_default.png"
@@ -118,9 +118,9 @@
         "default": "assets/heroes/cici/cici_circus_fantasy/avatars/cici_circus_fantasy_avatar_default.png"
       },
       "models": {
-        "entrance": "",
-        "in_game": "",
-        "raw": ""
+        "entrance": "assets/heroes/cici/cici_circus_fantasy/models/cici_circus_fantasy_entrance.glb",
+        "in_game": "assets/heroes/cici/cici_circus_fantasy/models/cici_circus_fantasy_in_game.glb",
+        "raw": "assets/heroes/cici/cici_circus_fantasy/models/cici_circus_fantasy_raw.glb"
       },
       "portraits": {
         "default": "assets/heroes/cici/cici_circus_fantasy/portraits/cici_circus_fantasy_portrait_default.png"
@@ -151,9 +151,9 @@
         "default": "assets/heroes/cici/cici_circus_glamour/avatars/cici_circus_glamour_avatar_default.png"
       },
       "models": {
-        "entrance": "",
-        "in_game": "",
-        "raw": ""
+        "entrance": "assets/heroes/cici/cici_circus_glamour/models/cici_circus_glamour_entrance.glb",
+        "in_game": "assets/heroes/cici/cici_circus_glamour/models/cici_circus_glamour_in_game.glb",
+        "raw": "assets/heroes/cici/cici_circus_glamour/models/cici_circus_glamour_raw.glb"
       },
       "portraits": {
         "default": "assets/heroes/cici/cici_circus_glamour/portraits/cici_circus_glamour_portrait_default.png"
@@ -183,9 +183,9 @@
         "default": "assets/heroes/cici/cici_p_ace_cici/avatars/cici_p_ace_cici_avatar_default.png"
       },
       "models": {
-        "entrance": "",
-        "in_game": "",
-        "raw": ""
+        "entrance": "assets/heroes/cici/cici_p_ace_cici/models/cici_p_ace_cici_entrance.glb",
+        "in_game": "assets/heroes/cici/cici_p_ace_cici/models/cici_p_ace_cici_in_game.glb",
+        "raw": "assets/heroes/cici/cici_p_ace_cici/models/cici_p_ace_cici_raw.glb"
       },
       "portraits": {
         "default": "assets/heroes/cici/cici_p_ace_cici/portraits/cici_p_ace_cici_portrait_default.png"

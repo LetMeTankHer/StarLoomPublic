@@ -183,9 +183,9 @@
         "default": "assets/heroes/zhuxin/zhuxin_p_ace_zhuxin/avatars/zhuxin_p_ace_zhuxin_avatar_default.png"
       },
       "models": {
-        "entrance": "",
-        "in_game": "",
-        "raw": ""
+        "entrance": "assets/heroes/zhuxin/zhuxin_p_ace_zhuxin/models/zhuxin_p_ace_zhuxin_entrance.glb",
+        "in_game": "assets/heroes/zhuxin/zhuxin_p_ace_zhuxin/models/zhuxin_p_ace_zhuxin_in_game.glb",
+        "raw": "assets/heroes/zhuxin/zhuxin_p_ace_zhuxin/models/zhuxin_p_ace_zhuxin_raw.glb"
       },
       "portraits": {
         "default": "assets/heroes/zhuxin/zhuxin_p_ace_zhuxin/portraits/zhuxin_p_ace_zhuxin_portrait_default.png"

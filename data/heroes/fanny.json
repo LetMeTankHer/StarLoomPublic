@@ -405,9 +405,9 @@
         "default": "assets/heroes/fanny/fanny_p_ace_fanny/avatars/fanny_p_ace_fanny_avatar_default.png"
       },
       "models": {
-        "entrance": "",
-        "in_game": "",
-        "raw": ""
+        "entrance": "assets/heroes/fanny/fanny_p_ace_fanny/models/fanny_p_ace_fanny_entrance.glb",
+        "in_game": "assets/heroes/fanny/fanny_p_ace_fanny/models/fanny_p_ace_fanny_in_game.glb",
+        "raw": "assets/heroes/fanny/fanny_p_ace_fanny/models/fanny_p_ace_fanny_raw.glb"
       },
       "portraits": {
         "default": "assets/heroes/fanny/fanny_p_ace_fanny/portraits/fanny_p_ace_fanny_portrait_default.png"
