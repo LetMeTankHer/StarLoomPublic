@@ -1,0 +1,1 @@
+import{j as e}from"./index-Bxa9UmCe.js";const r=()=>e.jsx("div",{className:"w-full rounded-lg shadow p-4 flex items-center justify-center h-48 bg-background border border-text-dull",children:e.jsx("span",{className:"text-text-dull",children:"Advertisement Space lorem20"})});export{r as default};
